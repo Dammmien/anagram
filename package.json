@@ -1,0 +1,19 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram.js",
+  "scripts": {
+    "start": "node anagram.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dammmien/anagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dammmien/anagram/issues"
+  },
+  "homepage": "https://github.com/Dammmien/anagram#readme"
+}
